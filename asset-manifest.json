@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mobile-app/static/css/main.c2408e40.chunk.css",
+    "main.js": "/mobile-app/static/js/main.2a3a0276.chunk.js",
+    "main.js.map": "/mobile-app/static/js/main.2a3a0276.chunk.js.map",
+    "runtime-main.js": "/mobile-app/static/js/runtime-main.97619a4d.js",
+    "runtime-main.js.map": "/mobile-app/static/js/runtime-main.97619a4d.js.map",
+    "static/js/2.4a8e9406.chunk.js": "/mobile-app/static/js/2.4a8e9406.chunk.js",
+    "static/js/2.4a8e9406.chunk.js.map": "/mobile-app/static/js/2.4a8e9406.chunk.js.map",
+    "static/js/3.832ca48f.chunk.js": "/mobile-app/static/js/3.832ca48f.chunk.js",
+    "static/js/3.832ca48f.chunk.js.map": "/mobile-app/static/js/3.832ca48f.chunk.js.map",
+    "index.html": "/mobile-app/index.html",
+    "static/css/main.c2408e40.chunk.css.map": "/mobile-app/static/css/main.c2408e40.chunk.css.map",
+    "static/js/2.4a8e9406.chunk.js.LICENSE.txt": "/mobile-app/static/js/2.4a8e9406.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97619a4d.js",
+    "static/js/2.4a8e9406.chunk.js",
+    "static/css/main.c2408e40.chunk.css",
+    "static/js/main.2a3a0276.chunk.js"
+  ]
+}
